@@ -1,6 +1,18 @@
 [
-    "iskrakhetnana":"Iskra Khetnana",
-    "kule":"Kule",
-    "okoncuczlowieka":"O końcu człowieka",
-    "oprawdzie":"O prawdzie"
+    {
+        "id": "iskrakhetnana",
+        "title": "Iskra Khetnana"
+    },
+    {
+        "id": "kule",
+        "title": "Kule"
+    },
+    {
+        "id": "okoncuczlowieka",
+        "title": "O końcu człowieka"
+    },
+    {
+        "id": "oprawdzie",
+        "title": "O prawdzie"
+    }
 ]
