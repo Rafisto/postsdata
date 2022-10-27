@@ -29,8 +29,9 @@ for p in range(len(poems)):
             text.append(file[i][:-1])
     poem_dict["content"] = text
     json.append(poem_dict)
-    poem_dict.pop("content")
-    data.append(poem_dict)
+    dicts = poem_dict.copy()
+    dicts.pop("content")
+    data.append(dicts)
 
 with open("__list__.json", "w", encoding="utf-8") as f:
     print("__list__.json")
