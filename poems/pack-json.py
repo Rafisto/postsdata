@@ -7,9 +7,10 @@ titles = []
 for file in os.listdir("txt"):
     if file.endswith(".txt"):
         poems.append(os.path.join("txt", file))
-        titles.append(file.replace('.txt',''))
+        titles.append(file.replace('.txt', ''))
 
 json = []
+data = []
 
 for p in range(len(poems)):
     file = open(poems[p], encoding='utf-8').readlines()
@@ -28,8 +29,14 @@ for p in range(len(poems)):
             text.append(file[i][:-1])
     poem_dict["content"] = text
     json.append(poem_dict)
+    poem_dict.pop("content")
+    data.append(poem_dict)
 
-for i, poem in enumerate(json):    
+with open("__list__.json", "w", encoding="utf-8") as f:
+    print("__list__.json")
+    f.write(str(data).replace("'", '"'))
+
+for i, poem in enumerate(json):
     print(f"json/{titles[i]}.json")
     with open(f"json/{titles[i]}.json", "w", encoding="utf-8") as f:
-        f.write(str(json).replace("'", '"'))
+        f.write(str(poem).replace("'", '"'))
