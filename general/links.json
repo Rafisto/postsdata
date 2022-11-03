@@ -1,0 +1,9 @@
+[
+{
+    "url": "https://github.com/Rafisto/school/blob/8f7f83130e863c660dc1f4c445761ae8cd5c0cd3/autorstwa_RW/Fizyka/Transformata%20Fouriera/RW-rozmycie-f-otworowa.pdf",
+    "id": 1,
+    "title": "Procesor optyczny typu 4-f. Rozmycie i wyostrzenie funkcją otworową",
+    "description": "Artykuł dotyczący technicznych możliwości rozmycia i wyostrzenia przy użyciu przekształcecnia Fouriera i funkcji otworowych. Artykuł przybliża również aspekt fizyczny wykonywanych operacji, opisując w uproszczeniu budowę procesora optycznego typu 4-f.",
+    "tags":"Przekształcenie Fourera Transformata Fouriera Rozmycie Wyostrzenie 4F 4-f 4f coherent optical processor convolution theorem blur sharpening filter"
+}
+]
