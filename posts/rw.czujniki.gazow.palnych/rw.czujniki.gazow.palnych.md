@@ -1,6 +1,6 @@
 ### Czujniki gazów palnych
 3 III 2022 RW
-Zbiór infomracji odnośnie typów czujników gazów palnych, wraz z ich mocnymi, oraz słabymi stronami.
+Zbiór informacji odnośnie typów czujników gazów palnych, wraz z ich mocnymi, oraz słabymi stronami.
 
 **Wykorzystanie**<br/>
 Niniejszy tekst jest skryptem do prezentacji na tytułowy temat. Niemniej jednak zawiera on wiele interesujących informacji. Projekt z pewnością można zaliczyć jako działanie ku szerszemu zrozumieniu powszechnie obecnego, choć bliżej nieznanego zagadnienia.
