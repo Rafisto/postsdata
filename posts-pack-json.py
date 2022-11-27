@@ -29,7 +29,7 @@ for p in range(len(posts)):
             post_dict["date"] = file[i][:-1]
         elif i == 2:
             post_dict["description"] = file[i][:-1]
-    text = ''.join(file)
+    text = ''.join(file[3:])
     post_dict["content"] = text
     json.append(post_dict)
     dicts = post_dict.copy()
