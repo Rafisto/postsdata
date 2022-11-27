@@ -1,4 +1,6 @@
 ### Wahadło matematyczne
+24 IV 2022 RW
+Doświadczalne wykazanie poprawności wzoru na okres drgań wahadła matematycznego.
 
 **Wprowadzenie**<br/>
 Wahadło matematyczne - wyidealizowane ciało o masie punktowej, zawieszone na cienkiej, nieważkiej, nierozciągliwej nici.

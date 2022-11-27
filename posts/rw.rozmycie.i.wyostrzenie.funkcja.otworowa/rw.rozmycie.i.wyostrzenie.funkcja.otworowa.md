@@ -1,5 +1,6 @@
 ### Rozmycie i wyostrzenie funkcją otworową
 15 I 2022 RW
+Rozmycie oraz wyostrzenie obrazu przy użyciu przekształcenia Fouriera oraz funkcji otworowych.
 
 **Wprowadzenie**<br/>
 Optyka Fourierowska to dziedzina zajmująca się przetwarzaniem sygnałów świetlnych 
@@ -30,7 +31,7 @@ $x_0=\frac{a}{2},\ y_0=\frac{b}{2},\ \sigma_X=\frac{a}{b},\ \sigma_Y=20$
 
 Zadana funkcja prezentuje następujące wyniki. Przekształcony obraz O jest utworzony według następującej funkcji. Dla każdego punktu obrazu zachodzi przekształcenie odwrotne $F\prime$ iloczynu przekształcenia $F$
 z funkcją otworową f.<br/>
-$O=F'(F\cdot f)$
+$O=F^\prime (F\cdot f)$
 
 ![Przefiltrowane przekształcenie rozmycia oraz jego odwrotność Fouriera](rw.rozmycie.i.wyostrzenie.funkcja.otworowa.5.png)
 

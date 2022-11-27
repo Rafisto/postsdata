@@ -1,4 +1,6 @@
 ﻿### Siły oporu lepkiego gliceryny 
+23 V 2022 RW
+Doświadczalne wyznaczanie siły oporu lepkiego gliceryny.
 
 **Wprowadzenie**<br/>
 Ciało wpadające do gliceryny wpierw porusza się ruchem niejednostajnie przyspieszonym, a następnie ruchem jednostajnym z prędkością graniczną v.

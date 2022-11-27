@@ -1,10 +1,10 @@
 import os
 
-print("Pack-JSON 1.0 RW")
+print("___\nPoems-Pack-JSON 1.1 RW\n___\n")
 
 poems = []
 titles = []
-for file in os.listdir("txt"):
+for file in os.listdir("poems/txt"):
     if file.endswith(".txt"):
         poems.append(os.path.join("txt", file))
         titles.append(file.replace('.txt', ''))
@@ -13,7 +13,7 @@ json = []
 data = []
 
 for p in range(len(poems)):
-    file = open(poems[p], encoding='utf-8').readlines()
+    file = open("poems/"+poems[p], encoding='utf-8').readlines()
     poem_dict = {}
     text = []
     poem_dict["url"] = poems[p].split('\\')[1].split('.')[0]
@@ -33,11 +33,11 @@ for p in range(len(poems)):
     dicts.pop("content")
     data.append(dicts)
 
-with open("__list__.json", "w", encoding="utf-8") as f:
-    print("__list__.json")
+with open("poems/__list__.json", "w", encoding="utf-8") as f:
+    print("poems/__list__.json")
     f.write(str(data).replace("'", '"'))
 
 for i, poem in enumerate(json):
-    print(f"json/{titles[i]}.json")
-    with open(f"json/{titles[i]}.json", "w", encoding="utf-8") as f:
+    print(f"poems/json/{titles[i]}.json")
+    with open(f"poems/json/{titles[i]}.json", "w", encoding="utf-8") as f:
         f.write(str(poem).replace("'", '"'))
