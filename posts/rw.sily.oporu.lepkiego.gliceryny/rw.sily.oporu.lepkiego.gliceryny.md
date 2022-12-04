@@ -1,5 +1,5 @@
 ﻿### Siły oporu lepkiego gliceryny 
-23 V 2022 RW
+23 V 2022
 Doświadczalne wyznaczanie siły oporu lepkiego gliceryny.
 
 **Wprowadzenie**<br/>

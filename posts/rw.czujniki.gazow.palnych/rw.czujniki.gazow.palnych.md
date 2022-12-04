@@ -1,5 +1,5 @@
 ### Czujniki gazów palnych
-3 III 2022 RW
+3 III 2022
 Zbiór informacji odnośnie typów czujników gazów palnych, wraz z ich mocnymi, oraz słabymi stronami.
 
 **Wykorzystanie**<br/>

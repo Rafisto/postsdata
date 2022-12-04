@@ -1,5 +1,5 @@
 ### Wahadło matematyczne
-24 IV 2022 RW
+24 IV 2022
 Doświadczalne wykazanie poprawności wzoru na okres drgań wahadła matematycznego.
 
 **Wprowadzenie**<br/>

@@ -1,5 +1,5 @@
 ### Rozmycie i wyostrzenie funkcją otworową
-15 I 2022 RW
+15 I 2022
 Rozmycie oraz wyostrzenie obrazu przy użyciu przekształcenia Fouriera oraz funkcji otworowych.
 
 **Wprowadzenie**<br/>
