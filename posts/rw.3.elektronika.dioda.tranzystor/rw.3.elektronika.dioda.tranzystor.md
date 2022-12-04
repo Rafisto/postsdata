@@ -14,7 +14,7 @@ Podstawy działania diody i tranzystora. Opis przewodników, izolatorów oraz p�
 - Pozostałe typy diód to również:
     - Dioda LED - Źródło światła
     - Dioda Zenera - Stabilizacja napięcia
-    - Dioda Schottky'ego - Działająca na wysokich częstotliwościach
+    - Dioda Schottky-ego - Działająca na wysokich częstotliwościach
 
 ![Powłoki elektronowe atomu krzemu](rw.3.elektronika.dioda.tranzystor.2.png)
 
