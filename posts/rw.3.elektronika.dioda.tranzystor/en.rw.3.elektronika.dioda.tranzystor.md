@@ -34,7 +34,7 @@ Semiconductor layer formation (Doping):
 
 **P-TYPE LAYER** By adding another material that has very few free electrons, a so-called depleted layer is formed. For example, by adding aluminum (which has only 3 valence electrons)
 
-![Creating N-enriched and P-depleted layers](rw.3.electronics.dioda.tranzystor.5.png)
+![Creating N-enriched and P-depleted layers](rw.3.elektronika.dioda.tranzystor.5.png)
 
 We combine **P-type** and **N-type**. As a result, due to the diffusive flow of electrons, a PN layer is formed, which is called a depletion region.
 
