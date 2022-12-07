@@ -79,8 +79,6 @@ Woltomierz:
 
 ### Tranzystor
 
-![](NPNtransistor.png)
-
 Tranzystor służy głównie jako:
 - Łącznik
 - Wzmacniacz sygnału
