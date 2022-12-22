@@ -1,9 +1,10 @@
 # Wprowadzenie
 
-"Myślę, więc jestem";<br/>
-"Cogito ergo sum"<br/>
-\- 
-Powiedział wybitny filozof Rene Descartes.<br/>
+>"Myślę, więc jestem";
+>
+>"Cogito ergo sum"
+
+Powiedział wybitny filozof Rene Descartes.
 
 
  To wobec niezliczonych dysput, bezsprzecznie właśnie te zdanie od lat stanowi podstawę, asumpt do niezliczonych rozważań o naturze czynu. Zadajmy sobie pytanie o wagę, znaczenie tego twierdzenia dla rozkwitu myśli ludzkiej. Jak trywialnie brzmiąca dziś idea, kryjąca się za tymi słowami, towarzyszyła biegom dziejów. Zadaję wszem i wobec te oto pytania w nadziei na dotarcie do prawdy:
